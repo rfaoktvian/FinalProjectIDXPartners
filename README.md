@@ -1,7 +1,5 @@
 ## CREDIT RISK PREDICTION
 
-By: Nazly Rafa Oktafian Nuzqu
-
 #### BUSINESS PROBLEM UNDERSTANDING
 
 As a Data Scientist at ID/X Partners, I am working on a project for a multifinance/lending company client. The client aims to improve the accuracy of their credit risk assessment and management processes. By developing a robust predictive model, the company can:
@@ -21,5 +19,7 @@ The project uses a Loan Dataset with accompanying Data Dictionary that includes:
 
 The dataset requires analysis to identify credit performance columns and determine labels (GOOD/BAD credit) based on payment history and delinquency patterns.
 
-
+By: Nazly Rafa Oktafian Nuzqu
 kkk
+
+By: Nazly Rafa Oktafian Nuzqu
