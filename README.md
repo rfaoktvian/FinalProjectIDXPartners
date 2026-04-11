@@ -19,8 +19,10 @@ The project uses a Loan Dataset with accompanying Data Dictionary that includes:
 
 The dataset requires analysis to identify credit performance columns and determine labels (GOOD/BAD credit) based on payment history and delinquency patterns.
 
-By: Nazly Rafa Oktafian Nuzqu
-kkk
+
+
+
+Sebenarnya ini belum selesai, jadi masih on progress untuk pengerjaannya:))
 
 By: Nazly Rafa Oktafian Nuzqu
 
